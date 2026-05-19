@@ -21,7 +21,7 @@
 
 - 🔭 Working on **Educational Technology & Computational Projects**
 - 🌱 Learning **Python, Dart, Flutter & Backend Development**
-- 💬 Ask me about **PHP, JavaScript, Web Development, Frontend & Backend**
+- 💬 Ask me about **PHP, JavaScript, React, Web Development, MySQL, Frontend & Backend**
 - 🚀 Interested in **AI, Software Innovation & Open Source**
 - ⚡ Love solving real-world problems with technology
 - 📫 Reach me at: **pritom.bdu.edte@gmail.com**
@@ -59,7 +59,7 @@
 ## 🚀 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,dart,php,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,python,dart,php,js,html,css,java,mysql" />
 </p>
 
 ---
@@ -67,12 +67,14 @@
 ## ⚙️ Frameworks & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,fastapi" />
+  <img src="https://skillicons.dev/icons?i=flutter,fastapi,bootstrap,react" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </p>
 
 ---
@@ -88,9 +90,11 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pritommahmud38&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritommahmud38&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pritommahmud38&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritommahmud38&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
@@ -101,13 +105,6 @@
   <img src="https://streak-stats.demolab.com?user=pritommahmud38&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pritommahmud38&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
-</p>
 
 ---
 
@@ -127,15 +124,6 @@
 
 ---
 
-# ☕ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
-
----
 
 <!-- Footer -->
 <p align="center">
